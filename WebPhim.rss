@@ -1,0 +1,29 @@
+        {
+  "name": "CHƯƠNG TRÌNH TỔNG HỢP - All In One. Chúc bạn thưởng thức vui vẻ !",
+  "author": "thanh51 - Path: gg.gg/thanh51; gg.gg/eqjfe",
+  "image": "https://wiseplay.tv/wp-content/uploads/2016/10/logo512.png",
+  "url": "http://w3ubin.com/BJdbaH53e.w3u",
+  "groups": [
+    {
+      "name": "Bóng Đá",
+      "image": "https://pa1.narvii.com/6143/2d29868404259d68ef3672c00da62e20f350a0cb_hq.gif",
+      "imageScale": "centerCrop",
+      "groups": [
+        {
+          "name": "WEB xem Bóng đá (có bình luận tiếng Việt) - Mở trận đấu cần xem để get link > click play hoặc chọn link .m3u8 (góc trên cùng bên phải màn hình) để thưởng thức !",
+          "image": "https://www.iptv4sat.com/wp-content/uploads/sport-1-696x693.jpg",
+          "stations": [
+            {
+              "image": "https://binhluan.tv/imgs/logo.png?v=1",
+              "name": "Xem bóng đá tại binhluan.tv",
+              "url": "https://binhluan.tv/",
+              "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
+              "playInNatPlayer": "true",
+              "embed": "true"
+            },
+                     ]
+          }
+                ]
+        }
+     ]
+   }
