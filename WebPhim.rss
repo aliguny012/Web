@@ -5,22 +5,22 @@
   "url": "https://raw.githubusercontent.com/aliguny012/Web/master/WebPhim.rss",
   "groups": [
     {
-      "name": "Phim",
-      "image": "https://pa1.narvii.com/6143/2d29868404259d68ef3672c00da62e20f350a0cb_hq.gif",
+      "name": "Web phim",
+      "image": "http://giphygifs.s3.amazonaws.com/media/tnRrXJ64HEO1a/giphy.gif",
       "imageScale": "centerCrop",
        "stations": [
-            {
-              "image": "https://binhluan.tv/imgs/logo.png?v=1",
-              "name": "Xem bóng đá tại binhluan.tv",
-              "url": "https://binhluan.tv/",
-              "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
-              "playInNatPlayer": "true",
-              "embed": "true"
-            },
          {
           "image": "https://fimfast.com/assets/img/logo.png",
           "name": "Xem phim từ fimfast.com: Mở phim cần xen để get link > Click Play (góc trên cùng bên phải màn hình) để thưởng thức",
           "url": "https://fimfast.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
+          "playInNatPlayer": "true",
+          "embed": "true"
+         },
+         {
+          "image": "https://kodi-addons.club/data/d1/d14a048c56373761664ca89a773d694d.png",
+          "name": "Xem phim từ tvhay.org: Mở phim cần xen để get link > Click Play (góc trên cùng bên phải màn hình) để thưởng thức",
+          "url": "http://tvhay.org/",
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
           "playInNatPlayer": "true",
           "embed": "true"
@@ -33,8 +33,55 @@
           "playInNatPlayer": "true",
           "embed": "true"
         },
+        {
+          "image": "http://phimkia.com/cdn/assets/images/logo-phimkia.png",
+          "name": "Xem phim từ phimkia.com (không quảng cáo): Chọn phim > bấm xem phim để thưởng thức !",
+          "url": "http://phimkia.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+       {
+          "image": "https://bilutv.org/Theme/images/bilutv-logo-normal.png?v=1.0",
+          "name": "Xem phim từ bilutv.org (không quảng cáo): Chọn phim > bấm xem phim để thưởng thức !",
+          "url": "https://bilutv.org/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "image": "https://phimsieunet.com/noi-dung/uploads/2019/07/phim-sieu-net.png",
+          "name": "Xem phim từ phimsieunet.com (không quảng cáo): Chọn phim > bấm xem phim để thưởng thức !",
+          "url": "https://phimsieunet.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
                      ]
-          }
+          },
+     {
+      "name": "Bóng đá",
+      "image": "https://pa1.narvii.com/6143/2d29868404259d68ef3672c00da62e20f350a0cb_hq.gif",
+      "imageScale": "centerCrop",
+       "stations": [
+            {
+              "image": "https://binhluan.tv/imgs/logo.png?v=1",
+              "name": "Xem bóng đá tại binhluan.tv",
+              "url": "https://binhluan.tv/",
+              "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
+              "playInNatPlayer": "true",
+              "embed": "true"
+            },
+            {
+              "image": "https://i.imgur.com/jyM3inb.png",
+              "name": "Xem bóng đá tại live.90m.tv/",
+              "url": "https://live.90m.tv//",
+              "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
+              "playInNatPlayer": "true",
+              "embed": "true"
+            },
+                 ]
+         }
                 ]
         }
      
