@@ -42,7 +42,7 @@
           "embed": "true"
         },
        {
-          "image": "https://bilutv.org/Theme/images/bilutv-logo-normal.png?v=1.0",
+          "image": "https://bilutv.org/Theme/images/icon-bilutv-fb.png",
           "name": "Xem phim từ bilutv.org (không quảng cáo): Chọn phim > bấm xem phim để thưởng thức !",
           "url": "https://bilutv.org/",
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
@@ -73,7 +73,7 @@
               "embed": "true"
             },
             {
-              "image": "https://i.imgur.com/jyM3inb.png",
+              "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQOLgcNTiSzl89asHQGXxyJfGuRN916KYjOX-THxhHKt7UE_n6X",
               "name": "Xem bóng đá tại live.90m.tv/",
               "url": "https://live.90m.tv",
               "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
