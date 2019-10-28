@@ -8,11 +8,7 @@
       "name": "Phim",
       "image": "https://pa1.narvii.com/6143/2d29868404259d68ef3672c00da62e20f350a0cb_hq.gif",
       "imageScale": "centerCrop",
-      "groups": [
-        {
-          "name": "WEB xem Bóng đá (có bình luận tiếng Việt) - Mở trận đấu cần xem để get link > click play hoặc chọn link .m3u8 (góc trên cùng bên phải màn hình) để thưởng thức !",
-          "image": "https://www.iptv4sat.com/wp-content/uploads/sport-1-696x693.jpg",
-          "stations": [
+       "stations": [
             {
               "image": "https://binhluan.tv/imgs/logo.png?v=1",
               "name": "Xem bóng đá tại binhluan.tv",
@@ -29,78 +25,7 @@
           "playInNatPlayer": "true",
           "embed": "true"
          },
-                     ]
-          }
-                ]
-{
-      "name": "Web Movies",
-      "image": "https://i.postimg.cc/zXndkQ3Q/Movies.png",
-      "stations": [
-        {
-          "image": "https://xemphim.plus/static/skin/logo-full.png",
-          "name": "Xem phim chất lượng cao từ xemphim.plus",
-          "url": "https://xemphim.plus/",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
-          "playInNatPlayer": "true",
-          "embed": "true"
-        },
-        {
-          "image": "http://goophim.com/img/logo_goophim.png",
-          "name": "Mở phim cần xem để get link > click play (góc trên cùng bên phải màn hình) để xem phim",
-          "url": "http://goophim.com/",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
-          "playInNatPlayer": "true",
-          "embed": "true"
-        },
-        {
-          "image": "https://xemphimviet.xyz/images/homepage-bn.jpg",
-          "name": "Xem phim Việt Nam từ xemphimviet.xyz (không quảng cáo): Chọn phim cần xem để get link > Click play (góc trên cùng bên phải màn hình) để thưởng thức",
-          "url": "https://xemphimviet.xyz/",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
-          "playInNatPlayer": "true",
-          "embed": "true"
-        },
-        {
-          "image": "https://lh3.googleusercontent.com/2V2zFaVPwmH7fx3K3kK8BBc-NESRYA9tqcAx1dAY7g_WnVHRgfEtoWJnB015cHVhZl8=s180",
-          "name": "Xem phim từ xemvtv.net(không quảng cáo): Chọn phim > bấm xem phim để thưởng thức !",
-          "url": "http://ww.xemvtv.net/",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
-          "playInNatPlayer": "true",
-          "embed": "true"
-        },
-        {
-          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9hz04AW4lIAc7EdrHd6OWjkeblcILwop2nQOqygMiytRsARoCLg",
-          "name": "Xem phim từ phimkia.com (không quảng cáo): Chọn phim > bấm xem phim để thưởng thức !",
-          "url": "http://phimkia.com/",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
-          "playInNatPlayer": "true",
-          "embed": "true"
-        },
-        {
-          "image": "https://fimfast.com/assets/img/logo.png",
-          "name": "Xem phim từ fimfast.com: Mở phim cần xen để get link > Click Play (góc trên cùng bên phải màn hình) để thưởng thức",
-          "url": "https://fimfast.com/",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
-          "playInNatPlayer": "true",
-          "embed": "true"
-        },
-        {
-          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9hz04AW4lIAc7EdrHd6OWjkeblcILwop2nQOqygMiytRsARoCLg",
-          "name": "Xem phim từ vtv16.com: Chọn phim & bấm play trên màn hình để get link > Click play (góc trên cùng bên phải màn hình) và chọn chất lượng link m3u8 để thưởng thức",
-          "url": "http://www.vtv16.com/",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
-          "playInNatPlayer": "true",
-          "embed": "true"
-        },
-        {
-          "image": "https://superrepo.org/static/images/icons/original/xplugin.video.4vn.phim14.net.png.pagespeed.ic.-9RZ0oWSrF.jpg",
-          "name": "Xem Phim từ phim14.net:Mở phim cần xem để get link > click play (góc trên cùng bên phải màn hình) để xem phim",
-          "url": "http://phim14.net/",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
-          "playInNatPlayer": "true",
-          "embed": "true"
-        },
-        {
+         {
           "image": "https://fptplay.vn/images/logo.png",
           "name": "FPTplay - Mở phim cần xem để get link > click play (góc trên cùng bên phải màn hình) để xem phim",
           "url": "https://fptplay.vn/danh-muc/phim-le/5841452d17dc130a9ab827d4",
@@ -108,32 +33,8 @@
           "playInNatPlayer": "true",
           "embed": "true"
         },
-        {
-          "image": "http://static.hplus.com.vn/themes/front/images/logohtvc.png",
-          "name": "Hplus - Mở phim cần xem để get link> click play (góc trên cùng bên phải màn hình) để xem phim",
-          "url": "http://hplus.com.vn/phim-le",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
-          "playInNatPlayer": "true",
-          "embed": "true"
-        },
-        {
-          "image": "https://lh3.googleusercontent.com/xxpCAoP8E-NQLE3s48HgsI1X4A1-6caAeZXK5wHVucOoLVRr--kLgiZJbsdsOewazFo=s180",
-          "name": "VTV giải trí - Mở phim cần xem để get link > click play (góc trên cùng bên phải màn hình) > thưởng thức !",
-          "url": "https://www.vtvgiaitri.vn/genre/phim",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
-          "playInNatPlayer": "true",
-          "embed": "true"
-        },
-        {
-          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9hz04AW4lIAc7EdrHd6OWjkeblcILwop2nQOqygMiytRsARoCLg",
-          "name": "Phimnhanh.com: Mở phim cần xem để get link > click play (góc trên cùng bên phải màn hình) để xem phim",
-          "url": "http://phimnhanh.com/",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
-          "playInNatPlayer": "true",
-          "embed": "true"
-        },
-      ]
-}
+                     ]
+          }
+                ]
         }
-     ]
-   }
+     
