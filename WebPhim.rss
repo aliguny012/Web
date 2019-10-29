@@ -57,6 +57,22 @@
           "playInNatPlayer": "true",
           "embed": "true"
         },
+{
+          "image": "https://fptplay.vn/images/logo.png",
+          "name": "Vlxx.tv - Mở phim cần xem để get link > click play (góc trên cùng bên phải màn hình) để xem phim",
+          "url": "http://vlxx.tv",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+{
+          "image": "https://fptplay.vn/images/logo.png",
+          "name": "Porntrex - Mở phim cần xem để get link > click play (góc trên cùng bên phải màn hình) để xem phim",
+          "url": "https://www.porntrex.com",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
                      ]
           },
      {
