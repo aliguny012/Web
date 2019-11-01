@@ -1,5 +1,5 @@
         {
-  "name": "CHƯƠNG TRÌNH TỔNG HỢP - All In One. Chúc bạn thưởng thức vui vẻ !",
+  "name": "Tổng hợp nội dung",
   "author": "Aliguny012 - Path: gg.gg/flbep",
   "image": "https://wiseplay.tv/wp-content/uploads/2016/10/logo512.png",
   "url": "https://raw.githubusercontent.com/aliguny012/Web/master/WebPhim.rss",
@@ -9,7 +9,15 @@
       "image": "http://giphygifs.s3.amazonaws.com/media/tnRrXJ64HEO1a/giphy.gif",
       "imageScale": "centerCrop",
        "stations": [
-         {
+       {
+          "image": "http://goophim.com/img/logo_goophim.png",
+          "name": "Goophim.com",
+          "url": "http://goophim.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
+          "playInNatPlayer": "true",
+          "embed": "true"
+         },
+        {
           "image": "https://fimfast.com/assets/img/logo.png",
           "name": "Xem phim từ fimfast.com",
           "url": "https://fimfast.com/",
