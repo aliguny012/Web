@@ -11,7 +11,7 @@
        "stations": [
          {
           "image": "https://fimfast.com/assets/img/logo.png",
-          "name": "Xem phim từ fimfast.com: Mở phim cần xen để get link > Click Play (góc trên cùng bên phải màn hình) để thưởng thức",
+          "name": "Xem phim từ fimfast.com",
           "url": "https://fimfast.com/",
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
           "playInNatPlayer": "true",
@@ -19,7 +19,7 @@
          },
          {
           "image": "https://kodi-addons.club/data/d1/d14a048c56373761664ca89a773d694d.png",
-          "name": "Xem phim từ tvhay.org: Mở phim cần xen để get link > Click Play (góc trên cùng bên phải màn hình) để thưởng thức",
+          "name": "Xem phim từ tvhay.org",
           "url": "http://tvhay.org/",
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
           "playInNatPlayer": "true",
@@ -27,7 +27,7 @@
          },
          {
           "image": "https://fptplay.vn/images/logo.png",
-          "name": "FPTplay - Mở phim cần xem để get link > click play (góc trên cùng bên phải màn hình) để xem phim",
+          "name": "FPTplay",
           "url": "https://fptplay.vn/danh-muc/phim-le/5841452d17dc130a9ab827d4",
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
           "playInNatPlayer": "true",
@@ -35,7 +35,7 @@
         },
         {
           "image": "http://phimkia.com/cdn/assets/images/logo-phimkia.png",
-          "name": "Xem phim từ phimkia.com (không quảng cáo): Chọn phim > bấm xem phim để thưởng thức !",
+          "name": "Xem phim từ phimkia.com",
           "url": "http://phimkia.com/",
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
           "playInNatPlayer": "true",
@@ -43,7 +43,7 @@
         },
        {
           "image": "https://bilutv.org/Theme/images/icon-bilutv-fb.png",
-          "name": "Xem phim từ bilutv.org (không quảng cáo): Chọn phim > bấm xem phim để thưởng thức !",
+          "name": "Xem phim từ bilutv.org",
           "url": "https://bilutv.org/",
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
           "playInNatPlayer": "true",
@@ -51,23 +51,39 @@
         },
         {
           "image": "https://phimsieunet.com/noi-dung/uploads/2019/07/phim-sieu-net.png",
-          "name": "Xem phim từ phimsieunet.com (không quảng cáo): Chọn phim > bấm xem phim để thưởng thức !",
+          "name": "Xem phim từ phimsieunet.com",
           "url": "https://phimsieunet.com/",
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
           "playInNatPlayer": "true",
           "embed": "true"
         },
-{
-          "image": "https://fptplay.vn/images/logo.png",
-          "name": "Vlxx.tv - Mở phim cần xem để get link > click play (góc trên cùng bên phải màn hình) để xem phim",
+        {
+          "image": "https://image.winudf.com/v2/image/ZG9uZ3BoaW1oZC5jb21faWNvbl8xNTA1NDAyODM1XzA0Mw/icon.png?w=340&fakeurl=1",
+          "name": "Xem phim từ dongphim.net",
+          "url": "https://www.dongphim.net/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "image": "https://razorphim.com/wp-content/uploads/2019/01/NEWLOGO.png",
+          "name": "Xem phim từ razorphim.com",
+          "url": "https://razorphim.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "image": "data:image/jpeg;base64,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",
+          "name": "Vlxx.tv",
           "url": "http://vlxx.tv",
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
           "playInNatPlayer": "true",
           "embed": "true"
         },
-{
-          "image": "https://fptplay.vn/images/logo.png",
-          "name": "Porntrex - Mở phim cần xem để get link > click play (góc trên cùng bên phải màn hình) để xem phim",
+        {
+          "image": "https://1000logos.net/wp-content/uploads/2019/02/PornTrex-Logo.png",
+          "name": "Porntrex - aliguny012 - 2fe92b27",
           "url": "https://www.porntrex.com",
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
           "playInNatPlayer": "true",
