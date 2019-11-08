@@ -128,6 +128,14 @@
               "playInNatPlayer": "true",
               "embed": "true"
             },
+            {
+              "image": "https://www.pimpletv.ru/wp-content/uploads/img/main_logo.png",
+              "name": "Pimpletv",
+              "url": "https://www.pimpletv.ru/",
+              "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
+              "playInNatPlayer": "true",
+              "embed": "true"
+            },
                  ]
          },
     {
