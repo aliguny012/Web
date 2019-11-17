@@ -36,7 +36,7 @@
          {
           "image": "https://fptplay.vn/images/logo.png",
           "name": "Phimmoi",
-          "url": "http://phimmoi.net/",
+          "url": "http://www.phimmoi.net/",
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
           "playInNatPlayer": "true",
           "embed": "true"
