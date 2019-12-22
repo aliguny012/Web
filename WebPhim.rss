@@ -43,8 +43,8 @@
         },
         {
           "image": "http://phimkia.com/cdn/assets/images/logo-phimkia.png",
-          "name": "Xem phim từ phimkia.com",
-          "url": "http://phimkia.com/",
+          "name": "Xem phim từ motphim.net",
+          "url": "http://motphim.net/",
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
           "playInNatPlayer": "true",
           "embed": "true"
