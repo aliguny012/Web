@@ -9,15 +9,7 @@
       "image": "http://giphygifs.s3.amazonaws.com/media/tnRrXJ64HEO1a/giphy.gif",
       "imageScale": "centerCrop",
        "stations": [
-       {
-          "image": "http://goophim.com/img/logo_goophim.png",
-          "name": "Goophim.com",
-          "url": "http://goophim.com/",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
-          "playInNatPlayer": "true",
-          "embed": "true"
-         },
-        {
+         {
           "image": "https://fimfast.com/assets/img/logo.png",
           "name": "Xem phim từ fimfast.com",
           "url": "https://fimfast.com/",
@@ -49,7 +41,15 @@
           "playInNatPlayer": "true",
           "embed": "true"
         },
-       {
+        {
+          "image": "https://motphim.net/motphim.png",
+          "name": "Phimnhanh.tv",
+          "url": "https://phimnhanh.tv/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
           "image": "https://bilutv.org/Theme/images/icon-bilutv-fb.png",
           "name": "Xem phim từ bilutv.org",
           "url": "https://bilutv.org/",
@@ -69,14 +69,6 @@
           "image": "https://image.winudf.com/v2/image/ZG9uZ3BoaW1oZC5jb21faWNvbl8xNTA1NDAyODM1XzA0Mw/icon.png?w=340&fakeurl=1",
           "name": "Xem phim từ dongphim.net",
           "url": "https://www.dongphim.net/",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
-          "playInNatPlayer": "true",
-          "embed": "true"
-        },
-        {
-          "image": "https://razorphim.com/wp-content/uploads/2019/01/NEWLOGO.png",
-          "name": "Xem phim từ razorphim.com",
-          "url": "https://razorphim.com/",
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
           "playInNatPlayer": "true",
           "embed": "true"
