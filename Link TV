@@ -1,5 +1,5 @@
-#EXTM3U url-tvg="http://gg.gg/epgmytv"
-https://pastebin.com/raw/LU1SzEBu - http://gg.gg/qw111q
+#EXTM3U url-tvg="http://gg.gg/epgmytv" https://pastebin.com/raw/LU1SzEBu - http://gg.gg/qw111q
+
 
 #EXTINF:-1 tvg-id="VTV1-VTV" tvg-name="VTV1-VTV" group-title="VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/VTV1_logo_2013_final.svg/1200px-VTV1_logo_2013_final.svg.png",VTV1 HD 2
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/VTV1-HD-1080p/playlist.m3u8?
