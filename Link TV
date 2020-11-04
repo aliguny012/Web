@@ -1,0 +1,38 @@
+#EXTM3U url-tvg="http://gg.gg/epgmytv"
+https://pastebin.com/raw/LU1SzEBu - http://gg.gg/qw111q
+
+#EXTINF:-1 tvg-id="VTV1-VTV" tvg-name="VTV1-VTV" group-title="VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/VTV1_logo_2013_final.svg/1200px-VTV1_logo_2013_final.svg.png",VTV1 HD 2
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/VTV1-HD-1080p/playlist.m3u8?
+#EXTINF:-1 tvg-id="VTV3-VTV" tvg-name="VTV3-VTV" group-title="VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/VTV3_logo_2013_final.svg/1200px-VTV3_logo_2013_final.svg.png",VTV3 HD
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/VTV3-HD-1080p/playlist.m3u8?
+#EXTINF:-1 tvg-id="VTV6-VTV" group-title="VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/VTV6_logo_2013_final.svg/1200px-VTV6_logo_2013_final.svg.png",VTV6 HD
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/VTV6-HD-1080p/playlist.m3u8?
+#EXTINF:-1 tvg-id="VTV9-VTV" tvg-name="VTV9-VTV"  group-title="VTV" tvg-logo="https://i.imgur.com/7bQ5gid.png",VTV9 HD
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/VTV9-HD-1080p/playlist.m3u8?
+
+#EXTINF:-1 tvg-id="HTV" tvg-name="HTV" group-title="HTV" tvg-logo="https://i.imgur.com/WQHqOFj.jpg",HTV2 HD
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTV2-HD-1080p/playlist.m3u8?
+#EXTINF:-1 tvg-id="HTV7 HD-ClipTV" tvg-name="HTV7 HD-ClipTV" group-title="HTV" tvg-logo="https://i.imgur.com/lj72rHM.jpg",HTV7 HD
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTV7-HD-1080p/playlist.m3u8?
+#EXTINF:-1 tvg-id="HTV9 HD-ClipTV" tvg-name="HTV9 HD-ClipTV" group-title="HTV" tvg-logo="https://i.imgur.com/lVkFTxB.jpg",HTV9 HD
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTV9-HD-1080p/playlist.m3u8?
+#EXTINF:-1 tvg-id="HTV THE THAO" tvg-name="HTV THE THAO" group-title="HTVC" tvg-logo="https://i.imgur.com/gXSu7YV.jpg",HTV THỂ THAO HD
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTV-THETHAO-HD-1080p/playlist.m3u8?
+
+#EXTINF:-1 tvg-id="THVL1 HD" tvg-name="THVL1 HD" group-title="ĐỊA PHƯƠNG" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSy5gQQ5BcSqCZVQortgOTgHiKL3JcSmVH0fsgNl6miqq0zOin-",Vĩnh Long 1 HD
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/THVL1-HD-1080p/chunks.m3u8?
+#EXTINF:-1 tvg-id="THVL2 HD" tvg-name="THVL2 HD" group-title="ĐỊA PHƯƠNG" tvg-logo="http://gardenmedia.vn/kcfinder/upload/images/niyt_VA9.png",Vĩnh Long 2 HD
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/THVL2-HD-1080p/chunks.m3u8?
+
+
+#EXTINF:-1 tvg-id="FOX Canal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/FOX_HD.svg/1280px-FOX_HD.svg.png" ,FOX HD
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOX-HD-1080p/playlist.m3u8?
+#EXTINF:-1 tvg-id="406 FOX Family Movies HD" tvg-name="406 FOX Family Movies HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/Fox_Family_Movies_logo.png" ,FOX FAMILY MOVIES HD
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXFAMILY-HD-1080p/playlist.m3u8?
+#EXTINF:-1 tvg-id="FOX Movies" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/433_300.png",Fox Movies HD
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXMOVIES-HD-1080p/playlist.m3u8?
+#EXTINF:-1 tvg-id="Asian Food Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Afc_logo.svg/1200px-Afc_logo.svg.png",Asian Food Channel HD
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/AFC-HD-1080p/playlist.m3u8?
+
+#EXTINF:-1 tvg-id="Cartoon Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Cartoon_Network_2004_logo.svg/1024px-Cartoon_Network_2004_logo.svg.png",Cartoon Network HD
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CARTOON-SD-720p/playlist.m3u8?
