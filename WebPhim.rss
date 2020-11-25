@@ -9,70 +9,6 @@
       "image": "http://giphygifs.s3.amazonaws.com/media/tnRrXJ64HEO1a/giphy.gif",
       "imageScale": "centerCrop",
        "stations": [
-         {
-          "image": "https://fimfast.com/assets/img/logo.png",
-          "name": "Xem phim từ fimfast.com",
-          "url": "https://fimfast.com/",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
-          "playInNatPlayer": "true",
-          "embed": "true"
-         },
-         {
-          "image": "https://kodi-addons.club/data/d1/d14a048c56373761664ca89a773d694d.png",
-          "name": "Xem phim từ tvhay.org",
-          "url": "http://tvhay.org/",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
-          "playInNatPlayer": "true",
-          "embed": "true"
-         },
-         {
-          "image": "https://fptplay.vn/images/logo.png",
-          "name": "Phimmoi",
-          "url": "http://www.phimmoi.net/",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
-          "playInNatPlayer": "true",
-          "embed": "true"
-        },
-        {
-          "image": "https://motphim.net/motphim.png",
-          "name": "Xem phim từ motphim.net",
-          "url": "http://motphim.net/",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
-          "playInNatPlayer": "true",
-          "embed": "true"
-        },
-        {
-          "image": "https://motphim.net/motphim.png",
-          "name": "Phimnhanh.tv",
-          "url": "https://phimnhanh.tv/",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
-          "playInNatPlayer": "true",
-          "embed": "true"
-        },
-        {
-          "image": "https://bilutv.org/Theme/images/icon-bilutv-fb.png",
-          "name": "Xem phim từ bilutv.org",
-          "url": "https://bilutv.org/",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
-          "playInNatPlayer": "true",
-          "embed": "true"
-        },
-        {
-          "image": "https://phimsieunet.com/noi-dung/uploads/2019/07/phim-sieu-net.png",
-          "name": "Xem phim từ phimsieunet.com",
-          "url": "https://phimsieunet.com/",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
-          "playInNatPlayer": "true",
-          "embed": "true"
-        },
-        {
-          "image": "https://image.winudf.com/v2/image/ZG9uZ3BoaW1oZC5jb21faWNvbl8xNTA1NDAyODM1XzA0Mw/icon.png?w=340&fakeurl=1",
-          "name": "Xem phim từ dongphim.net",
-          "url": "https://www.dongphim.net/",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
-          "playInNatPlayer": "true",
-          "embed": "true"
-        },
         {
           "image": "https://razorphim.com/wp-content/uploads/2019/01/NEWLOGO.png",
           "name": "Vlxx.tv",
@@ -114,8 +50,8 @@
        "stations": [
             {
               "image": "https://binhluan.tv/imgs/logo.png?v=1",
-              "name": "Xem bóng đá tại binhluan.tv",
-              "url": "https://binhluan.tv/",
+              "name": "Khuong Tu Nha",
+              "url": "https://share.vidyard.com/watch/HNQ6UjjYhAafYPxAVWVtfZ?fbclid=IwAR2IWbZpFOgyvy_pmMWoiMNnSYV-5rTVuwi2G6UG8gemk9odhohNhuMIZXo",
               "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
               "playInNatPlayer": "true",
               "embed": "true"
@@ -123,7 +59,7 @@
             {
               "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQOLgcNTiSzl89asHQGXxyJfGuRN916KYjOX-THxhHKt7UE_n6X",
               "name": "Xem bóng đá tại live.90m.tv/",
-              "url": "https://90p.tv",
+              "url": "https://90p.link",
               "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
               "playInNatPlayer": "true",
               "embed": "true"
